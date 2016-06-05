@@ -13,12 +13,16 @@ $ npm start
 ```
 
 ### Additional Resources:
-```
+
+---
+
 - [AngularJS: Tutorial](https://docs.angularjs.org/tutorial)
 - [Mongoose Quick Start](http://mongoosejs.com/docs/index.html)
 - [Express Guide](http://expressjs.com/en/guide/routing.html)
 - [MD CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-```
 
 ---
-``` Hello World! ```
+
+```
+Hello World!
+```
